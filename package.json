@@ -12,7 +12,7 @@
     "start-server": "node app.js",
     "dev": "nodemon app.js"
   },
-  "author": "Maximilian Schwarzmüller",
+  "author": "Seemant Sinha",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^1.18.3"
